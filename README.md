@@ -13,3 +13,7 @@ source provided. not mine, just removed dll injector and made it standalone lol.
 
 2. download microsoft redistributables
 https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0
+
+**STILL STILL closing instantly when u open? or something else?**
+
+3. Try disabling anti-virus
